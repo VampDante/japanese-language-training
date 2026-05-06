@@ -63,37 +63,34 @@ if st.session_state.page == "home":
     st.title("🇯🇵 Japanese N5 Trainer")
     st.write("Choose what you want to practice.")
 
-init_db()
+    # User name
+    init_db()
+    if "user_name" not in st.session_state:
+        st.session_state.user_name = get_user_name()
 
-if "user_name" not in st.session_state:
-    st.session_state.user_name = get_user_name()
+    with st.form("name_form"):
+        name = st.text_input("Enter your name", value=st.session_state.user_name)
+        submitted = st.form_submit_button("Save")
 
-st.title("🇯🇵 Japanese N5 Trainer")
-st.subheader("Welcome")
+    if submitted:
+        if st.session_state.user_name:
+            update_user_name(name)
+        else:
+            save_user_name(name)
 
-# User name
-
-with st.form("name_form"):
-    name = st.text_input("Enter your name", value=st.session_state.user_name)
-    submitted = st.form_submit_button("Save")
-
-if submitted:
-    if st.session_state.user_name:
-        update_user_name(name)
-    else:
-        save_user_name(name)
-
-    st.session_state.user_name = name
-    st.success(f"Name saved as: {name}")
-    st.rerun()
-
-if st.session_state.user_name:
-    st.info(f"Hello, {st.session_state.user_name}!")
-    if st.button("Change name", key="change_name"):
-        st.session_state.user_name = ""
+        st.session_state.user_name = name
+        st.success(f"Name saved as: {name}")
         st.rerun()
 
- # End of user name
+    if st.session_state.user_name:
+        st.info(f"Hello, {st.session_state.user_name}!")
+        if st.button("Change name", key="change_name"):
+            st.session_state.user_name = ""
+            st.rerun()
+
+    # End of user name
+
+
 
     st.markdown("## Quiz")
     st.caption("Test yourself with quizzes.")
