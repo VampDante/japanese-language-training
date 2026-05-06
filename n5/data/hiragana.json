@@ -1,0 +1,723 @@
+[
+  {
+    "romaji": "a",
+    "kana": "あ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "i",
+    "kana": "い",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "u",
+    "kana": "う",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "e",
+    "kana": "え",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "o",
+    "kana": "お",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ka",
+    "kana": "か",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ki",
+    "kana": "き",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ku",
+    "kana": "く",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ke",
+    "kana": "け",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ko",
+    "kana": "こ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "sa",
+    "kana": "さ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "shi",
+    "kana": "し",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "su",
+    "kana": "す",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "se",
+    "kana": "せ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "so",
+    "kana": "そ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ta",
+    "kana": "た",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "chi",
+    "kana": "ち",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "tsu",
+    "kana": "つ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "te",
+    "kana": "て",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "to",
+    "kana": "と",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "na",
+    "kana": "な",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ni",
+    "kana": "に",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "nu",
+    "kana": "ぬ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ne",
+    "kana": "ね",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "no",
+    "kana": "の",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ha",
+    "kana": "は",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "hi",
+    "kana": "ひ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "fu",
+    "kana": "ふ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "he",
+    "kana": "へ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ho",
+    "kana": "ほ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ma",
+    "kana": "ま",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "mi",
+    "kana": "み",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "mu",
+    "kana": "む",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "me",
+    "kana": "め",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "mo",
+    "kana": "も",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ya",
+    "kana": "や",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "yu",
+    "kana": "ゆ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "yo",
+    "kana": "よ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ra",
+    "kana": "ら",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ri",
+    "kana": "り",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ru",
+    "kana": "る",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "re",
+    "kana": "れ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ro",
+    "kana": "ろ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "wa",
+    "kana": "わ",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "n",
+    "kana": "ん",
+    "type": "standard hiragana",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ga",
+    "kana": "が",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "gi",
+    "kana": "ぎ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "gu",
+    "kana": "ぐ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ge",
+    "kana": "げ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "go",
+    "kana": "ご",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "za",
+    "kana": "ざ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ji",
+    "kana": "じ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "zu",
+    "kana": "ず",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ze",
+    "kana": "ぜ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "zo",
+    "kana": "ぞ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "da",
+    "kana": "だ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "dji",
+    "kana": "ぢ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "dzu",
+    "kana": "づ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "de",
+    "kana": "で",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "do",
+    "kana": "ど",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ba",
+    "kana": "ば",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "bi",
+    "kana": "び",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "bu",
+    "kana": "ぶ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "be",
+    "kana": "べ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "bo",
+    "kana": "ぼ",
+    "type": "dakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "pa",
+    "kana": "ぱ",
+    "type": "handakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "pi",
+    "kana": "ぴ",
+    "type": "handakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "pu",
+    "kana": "ぷ",
+    "type": "handakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "pe",
+    "kana": "ぺ",
+    "type": "handakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "po",
+    "kana": "ぽ",
+    "type": "handakuten",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "kya",
+    "kana": "きゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "kyu",
+    "kana": "きゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "kyo",
+    "kana": "きょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "sha",
+    "kana": "しゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "shu",
+    "kana": "しゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "sho",
+    "kana": "しょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "cha",
+    "kana": "ちゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "chu",
+    "kana": "ちゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "cho",
+    "kana": "ちょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "nya",
+    "kana": "にゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "nyu",
+    "kana": "にゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "nyo",
+    "kana": "にょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "hya",
+    "kana": "ひゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "hyu",
+    "kana": "ひゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "hyo",
+    "kana": "ひょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "mya",
+    "kana": "みゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "myu",
+    "kana": "みゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "myo",
+    "kana": "みょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "rya",
+    "kana": "りゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ryu",
+    "kana": "りゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ryo",
+    "kana": "りょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "gya",
+    "kana": "ぎゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "gyu",
+    "kana": "ぎゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "gyo",
+    "kana": "ぎょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ja",
+    "kana": "じゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "ju",
+    "kana": "じゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "jo",
+    "kana": "じょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "bya",
+    "kana": "びゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "byu",
+    "kana": "びゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "byo",
+    "kana": "びょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "pya",
+    "kana": "ぴゃ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "pyu",
+    "kana": "ぴゅ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "romaji": "pyo",
+    "kana": "ぴょ",
+    "type": "yōon combinations",
+    "learned": false,
+    "score": 0
+  }
+]

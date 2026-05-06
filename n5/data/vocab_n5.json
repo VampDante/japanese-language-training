@@ -1,0 +1,7203 @@
+[
+  {
+    "greek": "Αστέρι",
+    "romaji": "hoshi",
+    "kana": "ほし",
+    "kanji": "星",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βιβλίο",
+    "romaji": "hon",
+    "kana": "ほん",
+    "kanji": "本",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γραμματόσημο",
+    "romaji": "kitte",
+    "kana": "きって",
+    "kanji": "切手",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γυαλιά",
+    "romaji": "megane",
+    "kana": "めがね",
+    "kanji": "眼鏡",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δένδρο",
+    "romaji": "ki",
+    "kana": "き",
+    "kanji": "木",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+    {
+    "greek": "Δωμάτιο",
+    "romaji": "heya",
+    "kana": "へや",
+    "kanji": "部屋",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εισιτήριο",
+    "romaji": "kippu",
+    "kana": "きっぷ",
+    "kanji": "切符",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εκκλησία",
+    "romaji": "kyoukai",
+    "kana": "きょうかい",
+    "kanji": "教会",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Έτσι",
+    "romaji": "sou",
+    "kana": "そう",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εφημερίδα",
+    "romaji": "shinbun",
+    "kana": "しんぶん",
+    "kanji": "新聞",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Θρανίο/Γραφείο",
+    "romaji": "tsukue",
+    "kana": "つくえ",
+    "kanji": "机",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καλός",
+    "romaji": "ii",
+    "kana": "いい",
+    "kanji": "良い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καπέλο",
+    "romaji": "boushi",
+    "kana": "ぼうし",
+    "kanji": "帽子",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καρέκλα",
+    "romaji": "isu",
+    "kana": "いす",
+    "kanji": "椅子",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μολύβι",
+    "romaji": "enpitsu",
+    "kana": "えんぴつ",
+    "kanji": "鉛筆",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+    {
+    "greek": "Μπολ",
+    "romaji": "bōru",
+    "kana": "ボウル",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παράθυρο",
+    "romaji": "mado",
+    "kana": "まど",
+    "kanji": "窓",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πάρκο",
+    "romaji": "kōen",
+    "kana": "こうえん",
+    "kanji": "公園",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Περιοδικό",
+    "romaji": "zasshi",
+    "kana": "ざっし",
+    "kanji": "雑誌",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πεταλούδα",
+    "romaji": "chō",
+    "kana": "ちょう",
+    "kanji": "蝶",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+    {
+    "greek": "Πουλί",
+    "romaji": "tori",
+    "kana": "とり",
+    "kanji": "鳥",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ρολόι",
+    "romaji": "tokei",
+    "kana": "とけい",
+    "kanji": "時計",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σαπούνι",
+    "romaji": "sekken",
+    "kana": "せっけん",
+    "kanji": "石鹸",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σιδηροδρομικός σταθμός",
+    "romaji": "eki",
+    "kana": "えき",
+    "kanji": "駅",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σπίτι",
+    "romaji": "ie",
+    "kana": "いえ",
+    "kanji": "家",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σχολείο",
+    "romaji": "gakkou",
+    "kana": "がっこう",
+    "kanji": "学校",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τράπεζα",
+    "romaji": "ginkou",
+    "kana": "ぎんこう",
+    "kanji": "銀行",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρένο",
+    "romaji": "densha",
+    "kana": "でんしゃ",
+    "kanji": "電車",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φίλος",
+    "romaji": "tomodachi",
+    "kana": "ともだち",
+    "kanji": "友達",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χρήματα",
+    "romaji": "okane",
+    "kana": "おかね",
+    "kanji": "お金",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μάτια",
+    "romaji": "me",
+    "kana": "め",
+    "kanji": "目",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ζεστός",
+    "romaji": "atatakai",
+    "kana": "あたたかい",
+    "kanji": "暖かい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καυτός",
+    "romaji": "atsuatsui",
+    "kana": "あつい",
+    "kanji": "暑い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Άνθρωπος",
+    "romaji": "hito",
+    "kana": "ひと",
+    "kanji": "人",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αστυφύλακας",
+    "romaji": "keisatsukan",
+    "kana": "けいさつかん",
+    "kanji": "警察官",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αυτοκίνητο",
+    "romaji": "kuruma",
+    "kana": "くるま",
+    "kanji": "車",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ατζέντα",
+    "romaji": "techō",
+    "kana": "てちょう",
+    "kanji": "手帳",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δάσκαλος",
+    "romaji": "sensei",
+    "kana": "せんせい",
+    "kanji": "先生",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εκπαιδευτικός",
+    "romaji": "kyoushi",
+    "kana": "きょうし",
+    "kanji": "教師",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Έρευνα",
+    "romaji": "kenkyuu",
+    "kana": "けんきゅう",
+    "kanji": "研究",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ερευνητής",
+    "romaji": "kenkyuusha",
+    "kana": "けんきゅうしゃ",
+    "kanji": "研究者",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ηλεκτρισμός",
+    "romaji": "denki",
+    "kana": "でんき",
+    "kanji": "電気",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ιαπωνική γλώσσα",
+    "romaji": "nihongo",
+    "kana": "にほんご",
+    "kanji": "日本語",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ιάπωνας",
+    "romaji": "nihonjin",
+    "kana": "にほんじん",
+    "kanji": "日本人",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ιατρός",
+    "romaji": "isha",
+    "kana": "いしゃ",
+    "kanji": "医者",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καφές",
+    "romaji": "koohii",
+    "kana": "コーヒー",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κλειδιά",
+    "romaji": "kagi",
+    "kana": "かぎ",
+    "kanji": "鍵",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κινέζος",
+    "romaji": "chuugokujin",
+    "kana": "ちゅうごくじん",
+    "kanji": "中国人",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κίτρινος",
+    "romaji": "kiiroi",
+    "kana": "きいろい",
+    "kanji": "黄色い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κόκκινος",
+    "romaji": "akai",
+    "kana": "あかい",
+    "kanji": "赤い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κορεάτης",
+    "romaji": "kankokujin",
+    "kana": "かんこくじん",
+    "kanji": "韓国人",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λεξικό",
+    "romaji": "jisho",
+    "kana": "じしょ",
+    "kanji": "辞書",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λευκός",
+    "romaji": "shiroi",
+    "kana": "しろい",
+    "kanji": "白い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μαθητής",
+    "romaji": "gakusei",
+    "kana": "がくせい",
+    "kanji": "学生",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μαύρος",
+    "romaji": "kuroi",
+    "kana": "くろい",
+    "kanji": "黒い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μηχανικός",
+    "romaji": "gishi",
+    "kana": "ぎし",
+    "kanji": "技師",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μπλε",
+    "romaji": "aoi",
+    "kana": "あおい",
+    "kanji": "青い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Οδηγός",
+    "romaji": "untenshu",
+    "kana": "うんてんしゅ",
+    "kanji": "運転手",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ομπρέλα",
+    "romaji": "kasa",
+    "kana": "かさ",
+    "kanji": "傘",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Όνομα",
+    "romaji": "namae",
+    "kana": "なまえ",
+    "kanji": "名前",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πανεπιστήμιο",
+    "romaji": "daigaku",
+    "kana": "だいがく",
+    "kanji": "大学",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αγγλική γλώσσα",
+    "romaji": "eigo",
+    "kana": "えいご",
+    "kanji": "英語",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γρήγορος",
+    "romaji": "hayai",
+    "kana": "はやい",
+    "kanji": "速い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ήσυχος",
+    "romaji": "shizuka",
+    "kana": "しずか",
+    "kanji": "静か",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καθαρός",
+    "romaji": "kirei",
+    "kana": "きれい",
+    "kanji": "綺麗",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μεγάλος",
+    "romaji": "ookii",
+    "kana": "おおきい",
+    "kanji": "大きい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μικρός",
+    "romaji": "chiisai",
+    "kana": "ちいさい",
+    "kanji": "小さい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Νούμερο τηλεφώνου",
+    "romaji": "denwa bangou",
+    "kana": "でんわばんごう",
+    "kanji": "電話番号",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παλιός",
+    "romaji": "furui",
+    "kana": "ふるい",
+    "kanji": "古い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παπούτσια",
+    "romaji": "kutsu",
+    "kana": "くつ",
+    "kanji": "靴",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παρακαλώ",
+    "romaji": "onegaishimasu",
+    "kana": "おねがいします",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σοκολάτα",
+    "romaji": "chokoreeto",
+    "kana": "チョコレート",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Συναίσθημα",
+    "romaji": "kimochi",
+    "kana": "きもち",
+    "kanji": "気持ち",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τετράδιο",
+    "romaji": "nōto",
+    "kana": "ノート",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τσάντα",
+    "romaji": "kaban",
+    "kana": "かばん",
+    "kanji": "鞄",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Υπάλληλος εταιρίας",
+    "romaji": "kaishain",
+    "kana": "かいしゃいん",
+    "kanji": "会社員",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Υπάλληλος τραπέζης",
+    "romaji": "ginkouin",
+    "kana": "ぎんこういん",
+    "kanji": "銀行員",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φοιτητής",
+    "romaji": "daigakusei",
+    "kana": "だいがくせい",
+    "kanji": "大学生",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φίλος",
+    "romaji": "tomodachi",
+    "kana": "ともだち",
+    "kanji": "友達",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+	"greek": "Άβολος",
+	"romaji": "fuben",
+	"kana": "ふべん",
+	"kanji": "不便",
+	"level": "N5",
+	"type": "adjective",
+	"learned": false,
+	"score": 0
+  },
+  {
+    "greek": "Άνοστο",
+    "romaji": "mazui",
+    "kana": "まずい",
+    "kanji": "",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αργός",
+    "romaji": "osoi",
+    "kana": "おそい",
+    "kanji": "遅い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αυτί",
+    "romaji": "mimi",
+    "kana": "みみ",
+    "kanji": "耳",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βαρετός",
+    "romaji": "tsumaranai",
+    "kana": "つまらない",
+    "kanji": "",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βαρύς",
+    "romaji": "omoi",
+    "kana": "おもい",
+    "kanji": "重い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βολικός",
+    "romaji": "benri",
+    "kana": "べんり",
+    "kanji": "便利",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+    {
+    "greek": "Βουνό",
+    "romaji": "yama",
+    "kana": "やま",
+    "kanji": "山",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γάτα",
+    "romaji": "neko",
+    "kana": "ねこ",
+    "kanji": "猫",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γρήγορος",
+    "romaji": "hayai",
+    "kana": "はやい",
+    "kanji": "速い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δύσκολος",
+    "romaji": "muzukashii",
+    "kana": "むずかしい",
+    "kanji": "難しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δουλειά",
+    "romaji": "shigoto",
+    "kana": "しごと",
+    "kanji": "仕事",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ελαφρύς",
+    "romaji": "karui",
+    "kana": "かるい",
+    "kanji": "軽い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ενδιαφέρων",
+    "romaji": "omoshiroi",
+    "kana": "おもしろい",
+    "kanji": "面白い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εύκολος / καλόκαρδος",
+    "romaji": "yasashii",
+    "kana": "やさしい",
+    "kanji": "優しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ευχάριστος / Διασκεδαστικός",
+    "romaji": "tanoshii",
+    "kana": "たのしい",
+    "kanji": "楽しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+	"greek": "Ήσυχος",
+	"romaji": "shizuka",
+	"kana": "しずか",
+	"kanji": "静か",
+	"level": "N5",
+	"type": "adjective",
+	"learned": false,
+	"score": 0
+  },
+  {
+    "greek": "Ζωηρός",
+    "romaji": "genki",
+    "kana": "げんき",
+    "kanji": "元気",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+	"greek": "Ζωηρός",
+	"romaji": "nigiyaka",
+	"kana": "にぎやか",
+	"kanji": "賑やか",
+	"level": "N5",
+	"type": "adjective",
+	"learned": false,
+	"score": 0
+  },
+  {
+    "greek": "Καθημερινή ζωή",
+    "romaji": "nichijou",
+    "kana": "にちじょう",
+    "kanji": "日常",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καινούριος",
+    "romaji": "atarashii",
+    "kana": "あたらしい",
+    "kanji": "新しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κακός",
+    "romaji": "warui",
+    "kana": "わるい",
+    "kanji": "悪い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καπνός τσιγάρου",
+    "romaji": "tabako",
+    "kana": "たばこ",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καυτός",
+    "romaji": "atsui",
+    "kana": "あつい",
+    "kanji": "暑い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάκτος",
+    "romaji": "saboten",
+    "kana": "さぼてん",
+    "kanji": "仙人掌",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κερασιά",
+    "romaji": "sakura no ki",
+    "kana": "さくらのき",
+    "kanji": "桜の木",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κεφάλι",
+    "romaji": "atama",
+    "kana": "あたま",
+    "kanji": "頭",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κοντός (σε μήκος)",
+    "romaji": "mijikai",
+    "kana": "みじかい",
+    "kanji": "短い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+	"greek": "Κρύος",
+	"romaji": "samui",
+	"kana": "さむい",
+	"kanji": "寒い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λουλούδια",
+    "romaji": "hana",
+    "kana": "はな",
+    "kanji": "花",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μακρύς (σε μήκος)",
+    "romaji": "nagai",
+    "kana": "ながい",
+    "kanji": "長い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μανταρίνι",
+    "romaji": "mikan",
+    "kana": "みかん",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μετρό",
+    "romaji": "chikatetsu",
+    "kana": "ちかてつ",
+    "kanji": "地下鉄",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μήλο",
+    "romaji": "ringo",
+    "kana": "りんご",
+    "kanji": "林檎",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Νωρίς (γρήγορα)",
+    "romaji": "hayai",
+    "kana": "はやい",
+    "kanji": "早い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Νόστιμος",
+    "romaji": "oishii",
+    "kana": "おいしい",
+    "kanji": "美味しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Νερό",
+    "romaji": "mizu",
+    "kana": "みず",
+    "kanji": "水",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Όμορφος / Καθαρός",
+    "romaji": "kirei",
+    "kana": "きれい",
+    "kanji": "綺麗",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Όχι τόσο",
+    "romaji": "amari",
+    "kana": "あまり",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πάλι",
+    "romaji": "mata",
+    "kana": "また",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παλιός",
+    "romaji": "furui",
+    "kana": "ふるい",
+    "kanji": "古い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πόδι",
+    "romaji": "ashi",
+    "kana": "あし",
+    "kanji": "足",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πρόσωπο",
+    "romaji": "kao",
+    "kana": "かお",
+    "kanji": "顔",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πολύ",
+    "romaji": "totemo",
+    "kana": "とても",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σήμερα",
+    "romaji": "kyou",
+    "kana": "きょう",
+    "kanji": "今日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σκύλος",
+    "romaji": "inu",
+    "kana": "いぬ",
+    "kanji": "犬",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Στόμα",
+    "romaji": "kuchi",
+    "kana": "くち",
+    "kanji": "口",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ρούχα",
+    "romaji": "fuku",
+    "kana": "ふく",
+    "kanji": "服",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φθηνός",
+    "romaji": "yasui",
+    "kana": "やすい",
+    "kanji": "安い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χαμηλός (σε ύψος)",
+    "romaji": "hikui",
+    "kana": "ひくい",
+    "kanji": "低い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χέρι",
+    "romaji": "te",
+    "kana": "て",
+    "kanji": "手",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τώρα",
+    "romaji": "ima",
+    "kana": "いま",
+    "kanji": "今",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χώρα",
+    "romaji": "kuni",
+    "kana": "くに",
+    "kanji": "国",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ψηλός / Ακριβός",
+    "romaji": "takai",
+    "kana": "たかい",
+    "kanji": "高い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ψάρια",
+    "romaji": "sakana",
+    "kana": "さかな",
+    "kanji": "魚",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αλλά",
+    "romaji": "demo",
+    "kana": "でも",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Άλογο",
+    "romaji": "uma",
+    "kana": "うま",
+    "kanji": "馬",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Απασχολημένος",
+    "romaji": "isogashii",
+    "kana": "いそがしい",
+    "kanji": "忙しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Από",
+    "romaji": "kara",
+    "kana": "から",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αρεστός",
+    "romaji": "suki",
+    "kana": "すき",
+    "kanji": "好き",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Άρρωστος / Ασθένεια",
+    "romaji": "byouki",
+    "kana": "びょうき",
+    "kanji": "病気",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+	"greek": "Καλός / Ικανός (σε κάτι)",
+	"romaji": "jouzu",
+	"kana": "じょうず",
+	"kanji": "上手",
+	"level": "N5",
+	"type": "adjective",
+    "learned": false,
+	"score": 0
+  },
+  {
+    "greek": "Βοοειδή",
+    "romaji": "ushi",
+    "kana": "うし",
+    "kanji": "牛",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βροχή",
+    "romaji": "ame",
+    "kana": "あめ",
+    "kanji": "雨",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γαρίδες",
+    "romaji": "ebi",
+    "kana": "えび",
+    "kanji": "海老",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γεύμα / ρύζι",
+    "romaji": "gohan",
+    "kana": "ごはん",
+    "kanji": "ご飯",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διάλειμμα",
+    "romaji": "yasumi",
+    "kana": "やすみ",
+    "kanji": "休み",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δουλειά",
+    "romaji": "shigoto",
+    "kana": "しごと",
+    "kanji": "仕事",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διάφορα",
+    "romaji": "iroiro",
+    "kana": "いろいろ",
+    "kanji": "色々",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εξετάσεις",
+    "romaji": "shiken",
+    "kana": "しけん",
+    "kanji": "試験",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εντελώς",
+    "romaji": "zenzen",
+    "kana": "ぜんぜん",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εποχή",
+    "romaji": "kisetsu",
+    "kana": "きせつ",
+    "kanji": "季節",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δροσερός",
+    "romaji": "suzushii",
+    "kana": "すずしい",
+    "kanji": "涼しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εξετάσεις",
+    "romaji": "shiken",
+    "kana": "しけん",
+    "kanji": "試験",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εντελώς",
+    "romaji": "zenzen",
+    "kana": "ぜんぜん",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Επόμενο",
+    "romaji": "tsugi",
+    "kana": "つぎ",
+    "kanji": "次",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εποχή",
+    "romaji": "kisetsu",
+    "kana": "きせつ",
+    "kanji": "季節",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εύκολο",
+    "romaji": "kantan",
+    "kana": "かんたん",
+    "kanji": "簡単",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Θάλασσα",
+    "romaji": "umi",
+    "kana": "うみ",
+    "kanji": "海",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Θορυβώδης",
+    "romaji": "urusai",
+    "kana": "うるさい",
+    "kanji": "煩い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Και",
+    "romaji": "to",
+    "kana": "と",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καιρός",
+    "romaji": "tenki",
+    "kana": "てんき",
+    "kanji": "天気",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καλαμάρι",
+    "romaji": "ika",
+    "kana": "いか",
+    "kanji": "烏賊",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καλοκαίρι",
+    "romaji": "natsu",
+    "kana": "なつ",
+    "kanji": "夏",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καυτερό",
+    "romaji": "karai",
+    "kana": "からい",
+    "kanji": "辛い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κόσμος",
+    "romaji": "sekai",
+    "kana": "せかい",
+    "kanji": "世界",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κόκκινο",
+    "romaji": "aka",
+    "kana": "あか",
+    "kanji": "赤",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κόκκινος",
+    "romaji": "akai",
+    "kana": "あかい",
+    "kanji": "赤い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κρέας",
+    "romaji": "niku",
+    "kana": "にく",
+    "kanji": "肉",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λαχανικά",
+    "romaji": "yasai",
+    "kana": "やさい",
+    "kanji": "野菜",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λίγο",
+    "romaji": "sukoshi",
+    "kana": "すこし",
+    "kanji": "少し",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καρότα",
+    "romaji": "ninjin",
+    "kana": "にんじん",
+    "kanji": "人参",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λιγοστά",
+    "romaji": "sukunai",
+    "kana": "すくない",
+    "kanji": "少ない",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μαγαζί σούσι",
+    "romaji": "sushi-ya",
+    "kana": "すしや",
+    "kanji": "寿司屋",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μαγειρική",
+    "romaji": "ryouri",
+    "kana": "りょうり",
+    "kanji": "料理",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μαζί με",
+    "romaji": "to issho ni",
+    "kana": "といっしょに",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μακρινός",
+    "romaji": "tooi",
+    "kana": "とおい",
+    "kanji": "遠い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μελέτη / Σπουδές",
+    "romaji": "benkyou",
+    "kana": "べんきょう",
+    "kanji": "勉強",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μπέιζμπολ",
+    "romaji": "yakyuu",
+    "kana": "やきゅう",
+    "kanji": "野球",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μπουγάδα",
+    "romaji": "sentaku",
+    "kana": "せんたく",
+    "kanji": "洗濯",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξένος / Αλλοδαπός",
+    "romaji": "gaikokujin",
+    "kana": "がいこくじん",
+    "kanji": "外国人",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μπουγάδα",
+    "romaji": "sentaku",
+    "kana": "せんたく",
+    "kanji": "洗濯",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Περίπου",
+    "romaji": "daitai",
+    "kana": "だいたい",
+    "kanji": "大体",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πέρυσι",
+    "romaji": "kyonen",
+    "kana": "きょねん",
+    "kanji": "去年",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πολλοί",
+    "romaji": "takusan",
+    "kana": "たくさん",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πολύ",
+    "romaji": "totemo",
+    "kana": "とても",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πολυπληθές",
+    "romaji": "ooku no",
+    "kana": "おおくの",
+    "kanji": "多くの",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πόσο κοστίζει;",
+    "romaji": "ikura desu ka",
+    "kana": "いくらですか",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ποτάμι",
+    "romaji": "kawa",
+    "kana": "かわ",
+    "kanji": "川",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πότε;",
+    "romaji": "itsu",
+    "kana": "いつ",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προηγούμενη εβδομάδα",
+    "romaji": "senshuu",
+    "kana": "せんしゅう",
+    "kanji": "先週",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προηγούμενος μήνας",
+    "romaji": "sengetsu",
+    "kana": "せんげつ",
+    "kanji": "先月",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προς τα πού;",
+    "romaji": "dochira",
+    "kana": "どちら",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προχθές",
+    "romaji": "ototoi",
+    "kana": "おととい",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αδύναμος",
+    "romaji": "yowai",
+    "kana": "よわい",
+    "kanji": "弱い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Απεχθής",
+    "romaji": "kirai",
+    "kana": "きらい",
+    "kanji": "嫌い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βρώμικος",
+    "romaji": "kitanai",
+    "kana": "きたない",
+    "kanji": "汚い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γάλα",
+    "romaji": "gyuunyuu",
+    "kana": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διάσημος",
+    "romaji": "yuumei",
+    "kana": "ゆうめい",
+    "kanji": "有名",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δυνατός",
+    "romaji": "tsuyoi",
+    "kana": "つよい",
+    "kanji": "強い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ελεύθερος",
+    "romaji": "hima",
+    "kana": "ひま",
+    "kanji": "暇",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Επόμενη εβδομάδα",
+    "romaji": "raishuu",
+    "kana": "らいしゅう",
+    "kanji": "来週",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ευγενικός",
+    "romaji": "shinsetsu",
+    "kana": "しんせつ",
+    "kanji": "親切",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μέρος",
+    "romaji": "tokoro",
+    "kana": "ところ",
+    "kanji": "所",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μεσημεριανό γεύμα",
+    "romaji": "hirugohan",
+    "kana": "ひるごはん",
+    "kanji": "昼ご飯",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παγωμένος",
+    "romaji": "tsumetai",
+    "kana": "つめたい",
+    "kanji": "冷たい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πάντα",
+    "romaji": "itsumo",
+    "kana": "いつも",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Περίεργος / Παράξενος",
+    "romaji": "hen",
+    "kana": "へん",
+    "kanji": "変",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πόλη",
+    "romaji": "machi",
+    "kana": "まち",
+    "kanji": "町",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σαββατοκύριακο",
+    "romaji": "shuumatsu",
+    "kana": "しゅうまつ",
+    "kanji": "週末",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σημαντικός",
+    "romaji": "daiji",
+    "kana": "だいじ",
+    "kanji": "大事",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σήμερα το πρωί",
+    "romaji": "kesa",
+    "kana": "けさ",
+    "kanji": "今朝",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σκούπισμα",
+    "romaji": "souji",
+    "kana": "そうじ",
+    "kanji": "掃除",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σουβενίρ",
+    "romaji": "omiyage",
+    "kana": "おみやげ",
+    "kanji": "お土産",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Συγγραφέας",
+    "romaji": "sakusha",
+    "kana": "さくしゃ",
+    "kanji": "作者",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Συννεφιασμένος",
+    "romaji": "kumori",
+    "kana": "くもり",
+    "kanji": "曇り",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σύννεφο",
+    "romaji": "kumo",
+    "kana": "くも",
+    "kanji": "雲",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ταινία / Σινεμά",
+    "romaji": "eiga",
+    "kana": "えいが",
+    "kanji": "映画",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ταξίδι",
+    "romaji": "tabi",
+    "kana": "たび",
+    "kanji": "旅",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τηλέφωνο",
+    "romaji": "denwa",
+    "kana": "でんわ",
+    "kanji": "電話",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τόνος",
+    "romaji": "maguro",
+    "kana": "まぐろ",
+    "kanji": "鮪",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τότε",
+    "romaji": "sono toki",
+    "kana": "そのとき",
+    "kanji": "その時",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τραπεζαρία",
+    "romaji": "shokudou",
+    "kana": "しょくどう",
+    "kanji": "食堂",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρόφιμα",
+    "romaji": "tabemono",
+    "kana": "たべもの",
+    "kanji": "食べ物",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Υγιής",
+    "romaji": "kenkou",
+    "kana": "けんこう",
+    "kanji": "健康",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φανταστικός / Υπέροχος",
+    "romaji": "suteki",
+    "kana": "すてき",
+    "kanji": "素敵",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φεστιβάλ",
+    "romaji": "matsuri",
+    "kana": "まつり",
+    "kanji": "祭り",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φθινόπωρο",
+    "romaji": "aki",
+    "kana": "あき",
+    "kanji": "秋",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φρούτα",
+    "romaji": "kudamono",
+    "kana": "くだもの",
+    "kanji": "果物",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φωτογραφία",
+    "romaji": "shashin",
+    "kana": "しゃしん",
+    "kanji": "写真",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χειμώνας",
+    "romaji": "fuyu",
+    "kana": "ふゆ",
+    "kanji": "冬",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χιόνι",
+    "romaji": "yuki",
+    "kana": "ゆき",
+    "kanji": "雪",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χθες",
+    "romaji": "kinou",
+    "kana": "きのう",
+    "kanji": "昨日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χθες βράδυ",
+    "romaji": "sakuban",
+    "kana": "さくばん",
+    "kanji": "昨晩",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χρόνος / Έτος",
+    "romaji": "toshi",
+    "kana": "とし",
+    "kanji": "年",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αίθουσα διδασκαλίας",
+    "romaji": "kyoushitsu",
+    "kana": "きょうしつ",
+    "kanji": "教室",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αίθουσα συνεδριάσεων",
+    "romaji": "kaigishitsu",
+    "kana": "かいぎしつ",
+    "kanji": "会議室",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γραφείο (δωμάτιο)",
+    "romaji": "jimusho",
+    "kana": "じむしょ",
+    "kanji": "事務所",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γεν (Ιαπωνικό νόμισμα)",
+    "romaji": "en",
+    "kana": "えん",
+    "kanji": "円",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Είσοδος",
+    "romaji": "iriguchi",
+    "kana": "いりぐち",
+    "kanji": "入口",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Έξοδος",
+    "romaji": "deguchi",
+    "kana": "でぐち",
+    "kanji": "出口",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κίνα",
+    "romaji": "chuugoku",
+    "kana": "ちゅうごく",
+    "kanji": "中国",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κορέα",
+    "romaji": "kankoku",
+    "kana": "かんこく",
+    "kanji": "韓国",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ρεσεψιόν",
+    "romaji": "uketsuke",
+    "kana": "うけつけ",
+    "kanji": "受付",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σκάλες",
+    "romaji": "kaidan",
+    "kana": "かいだん",
+    "kanji": "階段",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τηλέφωνο",
+    "romaji": "denwa",
+    "kana": "でんわ",
+    "kanji": "電話",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τουαλέτα",
+    "romaji": "toire",
+    "kana": "トイレ",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τμήμα πώλησης",
+    "romaji": "hanbaibu",
+    "kana": "はんばいぶ",
+    "kanji": "販売部",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Υπόγειο",
+    "romaji": "chika",
+    "kana": "ちか",
+    "kanji": "地下",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αγόρι",
+    "romaji": "otokonoko",
+    "kana": "おとこのこ",
+    "kanji": "男の子",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ανάμεσα",
+    "romaji": "aida",
+    "kana": "あいだ",
+    "kanji": "間",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ανθοπωλείο",
+    "romaji": "hana-ya",
+    "kana": "はなや",
+    "kanji": "花屋",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Άντρας",
+    "romaji": "otoko",
+    "kana": "おとこ",
+    "kanji": "男",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Απέναντι",
+    "romaji": "mukai",
+    "kana": "むかい",
+    "kanji": "向かい",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αριστερά",
+    "romaji": "hidari",
+    "kana": "ひだり",
+    "kanji": "左",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βιβλιοθήκη",
+    "romaji": "toshokan",
+    "kana": "としょかん",
+    "kanji": "図書館",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βιβλιοπωλείο",
+    "romaji": "honya",
+    "kana": "ほんや",
+    "kanji": "本屋",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γράμμα",
+    "romaji": "tegami",
+    "kana": "てがみ",
+    "kanji": "手紙",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γυναίκα",
+    "romaji": "onna",
+    "kana": "おんな",
+    "kanji": "女",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δεξιά",
+    "romaji": "migi",
+    "kana": "みぎ",
+    "kanji": "右",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δίπλα",
+    "romaji": "tonari",
+    "kana": "となり",
+    "kanji": "隣",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Έξω",
+    "romaji": "soto",
+    "kana": "そと",
+    "kanji": "外",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καρέκλα",
+    "romaji": "isu",
+    "kana": "いす",
+    "kanji": "椅子",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κατάστημα",
+    "romaji": "mise",
+    "kana": "みせ",
+    "kanji": "店",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάτω",
+    "romaji": "shita",
+    "kana": "した",
+    "kanji": "下",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καφετέρια",
+    "romaji": "kissaten",
+    "kana": "きっさてん",
+    "kanji": "喫茶店",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κήπος",
+    "romaji": "niwa",
+    "kana": "にわ",
+    "kanji": "庭",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κλειδιά",
+    "romaji": "kagi",
+    "kana": "かぎ",
+    "kanji": "鍵",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κοντά / Κοντινός",
+    "romaji": "chikai",
+    "kana": "ちかい",
+    "kanji": "近い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κορίτσι",
+    "romaji": "otokonoko",
+    "kana": "おんなのこ",
+    "kanji": "女の子",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κουτί",
+    "romaji": "hako",
+    "kana": "はこ",
+    "kanji": "箱",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Και τα λοιπά",
+    "romaji": "nado",
+    "kana": "など",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μακριά",
+    "romaji": "tooi",
+    "kana": "とおい",
+    "kanji": "遠い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μέσα",
+    "romaji": "naka",
+    "kana": "なか",
+    "kanji": "中",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μπαταρία",
+    "romaji": "denchi",
+    "kana": "でんち",
+    "kanji": "電池",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μπροστά",
+    "romaji": "mae",
+    "kana": "まえ",
+    "kanji": "前",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Οικογένεια",
+    "romaji": "kazoku",
+    "kana": "かぞく",
+    "kanji": "家族",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παιδί",
+    "romaji": "kodomo",
+    "kana": "こども",
+    "kanji": "子供",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πάνω",
+    "romaji": "ue",
+    "kana": "うえ",
+    "kanji": "上",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πίσω",
+    "romaji": "ushiro",
+    "kana": "うしろ",
+    "kanji": "後ろ",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ποδήλατο",
+    "romaji": "jitensha",
+    "kana": "じてんしゃ",
+    "kanji": "自転車",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πράγμα",
+    "romaji": "mono",
+    "kana": "もの",
+    "kanji": "物",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ράφι",
+    "romaji": "tana",
+    "kana": "たな",
+    "kanji": "棚",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σκεπή",
+    "romaji": "yane",
+    "kana": "やね",
+    "kanji": "屋根",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σταχτοδοχείο",
+    "romaji": "haizara",
+    "kana": "はいざら",
+    "kanji": "灰皿",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ταχυδρομείο",
+    "romaji": "yuubinkyoku",
+    "kana": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χαρτί / Μαλλιά",
+    "romaji": "kami",
+    "kana": "かみ",
+    "kanji": "紙 / 髪",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ψαλίδι",
+    "romaji": "hasami",
+    "kana": "はさみ",
+    "kanji": "鋏",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ψυγείο",
+    "romaji": "reizouko",
+    "kana": "れいぞうこ",
+    "kanji": "冷蔵庫",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φύλλο",
+    "romaji": "ha",
+    "kana": "は",
+    "kanji": "葉",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τραπέζι",
+    "romaji": "tsukue",
+    "kana": "つくえ",
+    "kanji": "机",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αγοράζω",
+    "romaji": "kaimasu",
+    "kana": "かいます",
+    "kanji": "買います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ακούω / Ρωτάω",
+    "romaji": "kikimasu",
+    "kana": "ききます",
+    "kanji": "聞きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αποβιβάζομαι",
+    "romaji": "orimasu",
+    "kana": "おります",
+    "kanji": "降ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βλέπω",
+    "romaji": "mimasu",
+    "kana": "みます",
+    "kanji": "見ます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αυγά",
+    "romaji": "tamago",
+    "kana": "たまご",
+    "kanji": "卵",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βραδινό γεύμα",
+    "romaji": "bangohan",
+    "kana": "ばんごはん",
+    "kanji": "晩ご飯",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γράφω",
+    "romaji": "kakimasu",
+    "kana": "かきます",
+    "kanji": "書きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διαβάζω",
+    "romaji": "yomimasu",
+    "kana": "よみます",
+    "kanji": "読みます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διασκεδάζω / Παίζω",
+    "romaji": "asobimasu",
+    "kana": "あそびます",
+    "kanji": "遊びます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δουλειά",
+    "romaji": "shigoto",
+    "kana": "しごと",
+    "kanji": "仕事",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δουλεύω (1ος τρόπος)",
+    "romaji": "hatarakimasu",
+    "kana": "はたらきます",
+    "kanji": "働きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δουλεύω (2ος τρόπος / απασχολούμαι)",
+    "romaji": "tsutomemasu",
+    "kana": "つとめます",
+    "kanji": "勤めます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εφημερίδα",
+    "romaji": "shinbun",
+    "kana": "しんぶん",
+    "kanji": "新聞",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Έπειτα",
+    "romaji": "sorekara",
+    "kana": "それから",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Επιβιβάζομαι",
+    "romaji": "norimasu",
+    "kana": "のります",
+    "kanji": "乗ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Επιστρέφω / Φεύγω",
+    "romaji": "kaerimasu",
+    "kana": "かえります",
+    "kanji": "帰ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Έρχομαι",
+    "romaji": "kimasu",
+    "kana": "きます",
+    "kanji": "来ます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάθε μέρα",
+    "romaji": "mainichi",
+    "kana": "まいにち",
+    "kanji": "毎日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάθε πρωί",
+    "romaji": "maiasa",
+    "kana": "まいあさ",
+    "kanji": "毎朝",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω",
+    "romaji": "shimasu",
+    "kana": "します",
+    "kanji": "します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καπνίζω",
+    "romaji": "tabakou o suimasu",
+    "kana": "たばこをすいます",
+    "kanji": "煙草を吸います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καταλαβαίνω",
+    "romaji": "wakarimasu",
+    "kana": "わかります",
+    "kanji": "分かります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κοιμάμαι",
+    "romaji": "nemasu",
+    "kana": "ねます",
+    "kanji": "寝ます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κρέας",
+    "romaji": "niku",
+    "kana": "にく",
+    "kanji": "肉",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λαχανικά",
+    "romaji": "yasai",
+    "kana": "やさい",
+    "kanji": "野菜",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λίγο",
+    "romaji": "sukoshi",
+    "kana": "すこし",
+    "kanji": "少し",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μουσική",
+    "romaji": "ongaku",
+    "kana": "おんがく",
+    "kanji": "音楽",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξεκουράζομαι",
+    "romaji": "yasumimasu",
+    "kana": "やすみます",
+    "kanji": "休みます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξυπνάω",
+    "romaji": "okimasu",
+    "kana": "おきます",
+    "kanji": "起きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μαγαζί",
+    "romaji": "mise",
+    "kana": "みせ",
+    "kanji": "店",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μαγαζί Σούσι",
+    "romaji": "sushi-ya",
+    "kana": "すしや",
+    "kanji": "寿司屋",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μαζί με",
+    "romaji": "to issho ni",
+    "kana": "といっしょに",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μελετώ / Σπουδάζω",
+    "romaji": "benkyou shimasu",
+    "kana": "べんきょうします",
+    "kanji": "勉強します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μελέτη / Σπουδές",
+    "romaji": "benkyou",
+    "kana": "べんきょう",
+    "kanji": "勉強",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μιλώ / Συζητώ",
+    "romaji": "hanashimasu",
+    "kana": "はなします",
+    "kanji": "話します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μουσείο Καλών Τεχνών",
+    "romaji": "bijutsukan",
+    "kana": "びじゅつかん",
+    "kanji": "美術館",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σήμερα",
+    "romaji": "kyou",
+    "kana": "きょう",
+    "kanji": "今日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πάω",
+    "romaji": "ikimasu",
+    "kana": "いきます",
+    "kanji": "行きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πίνω",
+    "romaji": "nomimasu",
+    "kana": "のみます",
+    "kanji": "飲みます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Που και που",
+    "romaji": "tokidoki",
+    "kana": "ときどき",
+    "kanji": "時々",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προηγούμενη εβδομάδα",
+    "romaji": "senshuu",
+    "kana": "せんしゅう",
+    "kanji": "先週",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προχθές",
+    "romaji": "ototoi",
+    "kana": "おととい",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πρωινό γεύμα",
+    "romaji": "asagohan",
+    "kana": "あさごはん",
+    "kanji": "朝ご飯",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ρουφάω / Καπνίζω",
+    "romaji": "suimasu",
+    "kana": "すいます",
+    "kanji": "吸います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σήμερα το βράδυ",
+    "romaji": "konban",
+    "kana": "こんばん",
+    "kanji": "今晩",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Συναντώ",
+    "romaji": "aimasu",
+    "kana": "あいます",
+    "kanji": "会います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τίποτα",
+    "romaji": "nanimo",
+    "kana": "なにも",
+    "kanji": "何も",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρώω",
+    "romaji": "tabemasu",
+    "kana": "たべます",
+    "kanji": "食べます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φωτογραφίζω / Τραβάζω / Παίρνω",
+    "romaji": "torimasu",
+    "kana": "とります",
+    "kanji": "撮ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χάρτης / Σχεδιάγραμμα",
+    "romaji": "chizu",
+    "kana": "ちず",
+    "kanji": "地図",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βαλίτσα",
+    "romaji": "nimotsu",
+    "kana": "にもつ",
+    "kanji": "荷物",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βγαίνω έξω",
+    "romaji": "dekakemasu",
+    "kana": "でかけます",
+    "kanji": "出かけます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δέμα",
+    "romaji": "sokutatsu",
+    "kana": "そくたつ",
+    "kanji": "速達",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μαθαίνω",
+    "romaji": "naraimasu",
+    "kana": "なります",
+    "kanji": "なります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μόνο",
+    "romaji": "dake",
+    "kana": "だけ",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πόσα",
+    "romaji": "ikutsu",
+    "kana": "いくつ",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Στέλνω",
+    "romaji": "okurimasu",
+    "kana": "おくります",
+    "kanji": "送ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Συστημμένο γράμμα",
+    "romaji": "kakitome",
+    "kana": "かきとめ",
+    "kanji": "書留",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τι είδους",
+    "romaji": "donna",
+    "kana": "どんな",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φάκελος",
+    "romaji": "fuuto",
+    "kana": "ふうとう",
+    "kanji": "封筒",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Όλα μαζί",
+    "romaji": "minna",
+    "kana": "みんな",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Όλοι (άνθρωποι)",
+    "romaji": "minna",
+    "kana": "みんな",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παίζω μουσικά όργανα",
+    "romaji": "gakki o hikimasu",
+    "kana": "がっきをひきます",
+    "kanji": "楽器を弾きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Περπατώ",
+    "romaji": "arukimasu",
+    "kana": "あるきます",
+    "kanji": "歩きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πιάτο",
+    "romaji": "sara",
+    "kana": "さら",
+    "kanji": "皿",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πλένω",
+    "romaji": "araimasu",
+    "kana": "あらいます",
+    "kanji": "洗います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προφορά",
+    "romaji": "hatsuon",
+    "kana": "はつおん",
+    "kanji": "発音",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ραντεβού / Υπόσχεση",
+    "romaji": "yakusoku",
+    "kana": "やくそく",
+    "kanji": "約束",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Έχω ραντεβού",
+    "romaji": "yakusoku o shimasu",
+    "kana": "やくそくをします",
+    "kanji": "約束をします",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σκουπίζω",
+    "romaji": "sojimasu",
+    "kana": "そうじます",
+    "kanji": "掃除します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σφυρίζω",
+    "romaji": "fukurimasu",
+    "kana": "ふきます",
+    "kanji": "吹きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τηρώ την υπόσχεση",
+    "romaji": "yakusoku o mamorimasu",
+    "kana": "やくそくをまもります",
+    "kanji": "約束を守ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρέχω",
+    "romaji": "hashirimasu",
+    "kana": "はしります",
+    "kanji": "走ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φοράω",
+    "romaji": "kimasu",
+    "kana": "きます",
+    "kanji": "着ます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χορεύω",
+    "romaji": "odorimasu",
+    "kana": "おどります",
+    "kanji": "踊ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ασκήσεις για το σπίτι",
+    "romaji": "shukudai",
+    "kana": "しゅくだい",
+    "kanji": "宿題",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Άδεια παραμονής",
+    "romaji": "zairyuu card",
+    "kana": "ざいりゅうカード",
+    "kanji": "在留カード",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αεροπλάνο",
+    "romaji": "hikouki",
+    "kana": "ひこうき",
+    "kanji": "飛行機",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αδειάζει",
+    "romaji": "akarimasu",
+    "kana": "あかります",
+    "kanji": "空きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αποβιβάζομαι",
+    "romaji": "orimasu",
+    "kana": "おります",
+    "kanji": "降ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αργά",
+    "romaji": "osoi",
+    "kana": "おそい",
+    "kanji": "遅い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γεμάτος",
+    "romaji": "ippai",
+    "kana": "いっぱい",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γράμμα αλφαβήτου",
+    "romaji": "moji",
+    "kana": "もじ",
+    "kanji": "文字",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δανείζομαι",
+    "romaji": "karimasu",
+    "kana": "かります",
+    "kanji": "借ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δανείζω",
+    "romaji": "kashimasu",
+    "kana": "かします",
+    "kanji": "貸します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δημαρχείο",
+    "romaji": "shiyakusho",
+    "kana": "しやくしょ",
+    "kanji": "市役所",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διψάω",
+    "romaji": "nodo ga kawakimasu",
+    "kana": "のどがかわきます",
+    "kanji": "喉が渇きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δύσκολο",
+    "romaji": "muzukashii",
+    "kana": "むずかしい",
+    "kanji": "難しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Επιθυμητό",
+    "romaji": "hoshii",
+    "kana": "ほしい",
+    "kanji": "欲しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ζωγραφιά / Πίνακας",
+    "romaji": "e",
+    "kana": "え",
+    "kanji": "絵",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καθόλου",
+    "romaji": "zenzen",
+    "kana": "ぜんぜん",
+    "kanji": "全然",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καλοκαιρινή αργία",
+    "romaji": "natsu yasumi",
+    "kana": "なつやすみ",
+    "kanji": "夏休み",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω γεύμα",
+    "romaji": "shokuji shimasu",
+    "kana": "しょくじします",
+    "kanji": "食事します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω ταξίδι",
+    "romaji": "ryokou shimasu",
+    "kana": "りょこうします",
+    "kanji": "旅行します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω ψώνια",
+    "romaji": "kaimono shimasu",
+    "kana": "かいものします",
+    "kanji": "買い物します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάτι",
+    "romaji": "nanika",
+    "kana": "なにか",
+    "kanji": "何か",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ζωγραφίζω ζωγραφιά",
+    "romaji": "e o kakimasu",
+    "kana": "えをかきます",
+    "kanji": "絵を描きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κοιλιά",
+    "romaji": "onaka",
+    "kana": "おなか",
+    "kanji": "お腹",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κολυμπάω",
+    "romaji": "oyogimasu",
+    "kana": "およぎます",
+    "kanji": "泳ぎます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κουράζομαι",
+    "romaji": "tsukarimasu",
+    "kana": "つかれます",
+    "kanji": "疲れます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λαρύγγι",
+    "romaji": "nodo",
+    "kana": "のど",
+    "kanji": "喉",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μπαίνω",
+    "romaji": "hairimasu",
+    "kana": "はいります",
+    "kanji": "入ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξεκούραση",
+    "romaji": "yasumi",
+    "kana": "やすみ",
+    "kanji": "休み",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξένη χώρα",
+    "romaji": "gaikoku",
+    "kana": "がいこく",
+    "kanji": "外国",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξεχωριστά",
+    "romaji": "betsu ni",
+    "kana": "べつに",
+    "kanji": "別に",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Οικονομία",
+    "romaji": "keizai",
+    "kana": "けいざい",
+    "kanji": "経済",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Όχι τόσο",
+    "romaji": "sorehodo",
+    "kana": "それほど",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παγωμένο",
+    "romaji": "tsumetai",
+    "kana": "つめたい",
+    "kanji": "冷たい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παντρεύομαι",
+    "romaji": "kekkon shimasu",
+    "kana": "けっこんします",
+    "kanji": "結婚します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παραγγελία",
+    "romaji": "chuumon",
+    "kana": "ちゅうもん",
+    "kanji": "注文",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πεινάω",
+    "romaji": "onaka ga sukimashita",
+    "kana": "おなかがすきました",
+    "kanji": "お腹が空きました",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Περίπατος",
+    "romaji": "sanpo",
+    "kana": "さんぽ",
+    "kanji": "散歩",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πλοίο",
+    "romaji": "fune",
+    "kana": "ふね",
+    "kanji": "船",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ποιο απ' όλα",
+    "romaji": "dore",
+    "kana": "どれ",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Στεγνώνω",
+    "romaji": "kawakimasu",
+    "kana": "かわきます",
+    "kanji": "乾きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Στενός",
+    "romaji": "semai",
+    "kana": "せまい",
+    "kanji": "狭い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Συνεδρίαση",
+    "romaji": "kaigi",
+    "kana": "かいぎ",
+    "kanji": "会議",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Του χρόνου",
+    "romaji": "rainen",
+    "kana": "らいねん",
+    "kanji": "来年",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τραγουδώ",
+    "romaji": "utaimasu",
+    "kana": "うたいます",
+    "kanji": "歌います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τραγούδι",
+    "romaji": "uta",
+    "kana": "うた",
+    "kanji": "歌",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Υποδέχομαι",
+    "romaji": "mukaemasu",
+    "kana": "むかえます",
+    "kanji": "迎えます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φαρδύς",
+    "romaji": "hiroi",
+    "kana": "ひろい",
+    "kanji": "広い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χειμωνιάτικη αργία",
+    "romaji": "fuyu yasumi",
+    "kana": "ふゆやすみ",
+    "kanji": "冬休み",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ψάρεμα",
+    "romaji": "tsuri",
+    "kana": "つり",
+    "kanji": "釣り",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αρχίζω",
+    "romaji": "hajimemasu",
+    "kana": "はじめます",
+    "kanji": "始めます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τελειώνω",
+    "romaji": "owarimasu",
+    "kana": "おわります",
+    "kanji": "終わります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Νοσοκομείο",
+    "romaji": "byouin",
+    "kana": "びょういん",
+    "kanji": "病院",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μεσημεριανό διάλειμμα",
+    "romaji": "hiruyasumi",
+    "kana": "ひるやすみ",
+    "kanji": "昼休み",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μήνας",
+    "romaji": "getsu",
+    "kana": "げつ",
+    "kanji": "月",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ημέρα",
+    "romaji": "nichi",
+    "kana": "にち",
+    "kanji": "日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ακριβώς",
+    "romaji": "choudo",
+    "kana": "ちょうど",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Περίπου",
+    "romaji": "gurai",
+    "kana": "ぐらい",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κρίμα είναι",
+    "romaji": "zannen desu",
+    "kana": "ざんねんです",
+    "kanji": "残念です",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μισός",
+    "romaji": "hanbun",
+    "kana": "はんぶん",
+    "kanji": "半分",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ενήλικας",
+    "romaji": "otona",
+    "kana": "おとな",
+    "kanji": "大人",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μάλιστα!",
+    "romaji": "kashikomarimashita",
+    "kana": "かしこまりました",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Περιμένω",
+    "romaji": "machimasu",
+    "kana": "まちます",
+    "kanji": "待ちます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αύριο",
+    "romaji": "ashita",
+    "kana": "あした",
+    "kanji": "明日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μεθαύριο",
+    "romaji": "asatte",
+    "kana": "あさって",
+    "kanji": "明後日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αλκοολούχα ποτά",
+    "romaji": "osake",
+    "kana": "おさけ",
+    "kanji": "お酒",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αλλάζω",
+    "romaji": "kaemasu",
+    "kana": "かえます",
+    "kanji": "変えます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ακούγεται",
+    "romaji": "kikoemasu",
+    "kana": "きこえます",
+    "kanji": "聞こえます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αναθρέφω ζώα",
+    "romaji": "kaimasu (doubutsu o)",
+    "kana": "かいます（どうぶつを）",
+    "kanji": "飼います（動物を）",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Απομνημονεύω",
+    "romaji": "oboemasu",
+    "kana": "おぼえます",
+    "kanji": "覚えます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αρκεί",
+    "romaji": "sore de jubun desu",
+    "kana": "それでじゅうぶんです",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ασθένεια",
+    "romaji": "byouki",
+    "kana": "びょうき",
+    "kanji": "病気",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Άψογα",
+    "romaji": "jyouzu ni",
+    "kana": "じょうずに",
+    "kanji": "上手に",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βγαίνω",
+    "romaji": "demasu",
+    "kana": "でます",
+    "kanji": "出ます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βιβλιοθήκη (έπιπλο)",
+    "romaji": "tana",
+    "kana": "たな",
+    "kanji": "棚",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γουρούνι",
+    "romaji": "buta",
+    "kana": "ぶた",
+    "kanji": "豚",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γέφυρα",
+    "romaji": "hashi",
+    "kana": "はし",
+    "kanji": "橋",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διδάσκω",
+    "romaji": "oshiemasu",
+    "kana": "おしえます",
+    "kanji": "教えます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διεθνές αεροδρόμιο",
+    "romaji": "kokusai kuukou",
+    "kana": "こくさいくうこう",
+    "kanji": "国際空港",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διεύθυνση",
+    "romaji": "juusho",
+    "kana": "じゅうしょ",
+    "kanji": "住所",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διορθώνω",
+    "romaji": "naoshimasu",
+    "kana": "なおします",
+    "kanji": "直します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ελεύθερα",
+    "romaji": "jiyuu ni",
+    "kana": "じゆうに",
+    "kanji": "自由に",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Επαγγελματικό ταξίδι",
+    "romaji": "shucchou",
+    "kana": "しゅっちょう",
+    "kanji": "出張",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εργαλεία",
+    "romaji": "dougu",
+    "kana": "どうぐ",
+    "kanji": "道具",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ζώο",
+    "romaji": "doubutsu",
+    "kana": "どうぶつ",
+    "kanji": "動物",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ζωολογικός κήπος",
+    "romaji": "doubutsuen",
+    "kana": "どうぶつえん",
+    "kanji": "動物園",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Θέα",
+    "romaji": "keshiki",
+    "kana": "けしき",
+    "kanji": "景色",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάθομαι",
+    "romaji": "suwarimasu",
+    "kana": "すわります",
+    "kanji": "座ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω μετακόμιση",
+    "romaji": "hikkoshimasu",
+    "kana": "ひっこしします",
+    "kanji": "引っ越しします",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω μπάνιο",
+    "romaji": "nyuuyoku shimasu",
+    "kana": "にゅうよくします",
+    "kanji": "入浴します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω ντουζ",
+    "romaji": "shawaa o abimasu",
+    "kana": "シャワーをあびます",
+    "kanji": "シャワーを浴びます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κατάσταση",
+    "romaji": "joukyou",
+    "kana": "じょうきょう",
+    "kanji": "状況",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάποτε",
+    "romaji": "itsuka",
+    "kana": "いつか",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κουζίνα",
+    "romaji": "daidokoro",
+    "kana": "だいどころ",
+    "kanji": "台所",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κύμα",
+    "romaji": "nami",
+    "kana": "なみ",
+    "kanji": "波",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μαϊμού",
+    "romaji": "saru",
+    "kana": "さる",
+    "kanji": "猿",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μέλλον",
+    "romaji": "mirai",
+    "kana": "みらい",
+    "kanji": "未来",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μορφή",
+    "romaji": "katachi",
+    "kana": "かたち",
+    "kanji": "形",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μόνος μου",
+    "romaji": "hitoride",
+    "kana": "ひとりで",
+    "kanji": "一人で",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Νικάω",
+    "romaji": "kachimasu",
+    "kana": "かちます",
+    "kanji": "勝ちます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ντομάτα",
+    "romaji": "tomato",
+    "kana": "トマト",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Όνειρο",
+    "romaji": "yume",
+    "kana": "ゆめ",
+    "kanji": "夢",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Οποτεδήποτε",
+    "romaji": "itsudemo",
+    "kana": "いつでも",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Οποιοδήποτε",
+    "romaji": "nandemo",
+    "kana": "なんでも",
+    "kanji": "何でも",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Οτιδήποτε",
+    "romaji": "nan demo",
+    "kana": "なんでも",
+    "kanji": "何でも",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ουρανός",
+    "romaji": "sora",
+    "kana": "そら",
+    "kanji": "空",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παράδειγμα",
+    "romaji": "rei",
+    "kana": "れい",
+    "kanji": "例",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παρελθόν",
+    "romaji": "mukashi",
+    "kana": "むかし",
+    "kanji": "昔",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πραγματικά",
+    "romaji": "hontou ni",
+    "kana": "ほんとうに",
+    "kanji": "本当に",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πράξη",
+    "romaji": "koudou",
+    "kana": "こうどう",
+    "kanji": "行動",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ποτέ",
+    "romaji": "zenzen",
+    "kana": "ぜんぜん",
+    "kanji": "全然",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σηκώνομαι όρθιος",
+    "romaji": "tachimasu",
+    "kana": "たちます",
+    "kanji": "立ちます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σκαρφαλώνω",
+    "romaji": "noborimasu",
+    "kana": "のぼります",
+    "kanji": "登ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σταθμεύω",
+    "romaji": "tomemasu",
+    "kana": "とめます",
+    "kanji": "止めます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σταματάω / Παρατάω",
+    "romaji": "yameru",
+    "kana": "やめる",
+    "kanji": "辞める",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σταφύλια",
+    "romaji": "budou",
+    "kana": "ぶどう",
+    "kanji": "葡萄",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εκπληκτικό",
+    "romaji": "subarashii / kakkoii",
+    "kana": "すばらしい / かっこいい",
+    "kanji": "素晴らしい / かっこいい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φωνή",
+    "romaji": "koe",
+    "kana": "こえ",
+    "kanji": "声",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χαλάω / Καταστρέφω",
+    "romaji": "kowashimasu",
+    "kana": "こわします",
+    "kanji": "壊します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χάνω / Ηττώμαι",
+    "romaji": "makemasu",
+    "kana": "まけます",
+    "kanji": "負けます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χόμπι",
+    "romaji": "shumi",
+    "kana": "しゅみ",
+    "kanji": "趣味",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χτίζω",
+    "romaji": "tsukurimasu",
+    "kana": "つくります",
+    "kanji": "作ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φανταστικό",
+    "romaji": "suteki",
+    "kana": "すてき",
+    "kanji": "素敵",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φαίνεται",
+    "romaji": "miemasu",
+    "kana": "みえます",
+    "kanji": "見えます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ανεβαίνω σκάλες",
+    "romaji": "kaidan o noborimasu",
+    "kana": "かいだんをのぼります",
+    "kanji": "階段を登ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κατεβαίνω σκάλες",
+    "romaji": "kaidan o orimasu",
+    "kana": "かいだんをおります",
+    "kanji": "階段を降ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μόνο",
+    "romaji": "dake",
+    "kana": "だけ",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παρά μόνο",
+    "romaji": "shika",
+    "kana": "しか",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μετεπιβιβάζομαι",
+    "romaji": "norikaemasu",
+    "kana": "のりかえます",
+    "kanji": "乗り換えます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ανοίγω (πόρτες, παράθυρα)",
+    "romaji": "akemasu",
+    "kana": "あけます",
+    "kanji": "開けます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Άνοστο / Άγευστο",
+    "romaji": "mazui",
+    "kana": "まずい",
+    "kanji": "",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βρέχει",
+    "romaji": "ame ga furimasu",
+    "kana": "あめがふります",
+    "kanji": "雨が降ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κατοικώ",
+    "romaji": "sumimasu",
+    "kana": "すみます",
+    "kanji": "住みます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κλείνω (πόρτες, παράθυρα)",
+    "romaji": "shimarimasu",
+    "kana": "しめります",
+    "kanji": "閉めます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κρατάω / Έχω",
+    "romaji": "motte imasu",
+    "kana": "もっています",
+    "kanji": "持っています",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Με ποιον",
+    "romaji": "dare to",
+    "kana": "だれと",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μισός χρόνος",
+    "romaji": "hantoshi",
+    "kana": "はんとし",
+    "kanji": "半年",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξεντύνομαι",
+    "romaji": "nugimasu",
+    "kana": "ぬぎます",
+    "kanji": "脱ぎます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Όχι, ευχαριστώ!",
+    "romaji": "iie, kekkou desu",
+    "kana": "いいえ、けっこうです",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παλτό",
+    "romaji": "kōto",
+    "kana": "コート",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παντελόνι",
+    "romaji": "zubon",
+    "kana": "ズボン",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πατάω / Πιέζω (διακόπτες, κουμπιά)",
+    "romaji": "oshimasu",
+    "kana": "おします",
+    "kanji": "押します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πολλοί / Πολλές / Πολλά",
+    "romaji": "takusan",
+    "kana": "たくさん",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φοράω (ρούχα από τη μέση και κάτω)",
+    "romaji": "hakimasu",
+    "kana": "はきます",
+    "kanji": "履きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φοράω (ρούχα από τη μέση και πάνω)",
+    "romaji": "kimasu",
+    "kana": "きます",
+    "kanji": "着ます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φοράω γυαλιά",
+    "romaji": "megane o kakemasu",
+    "kana": "めがねをかけます",
+    "kanji": "眼鏡をかけます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φυσάει",
+    "romaji": "kaze ga fukimasu",
+    "kana": "かぜがふきます",
+    "kanji": "風が吹きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χιλιόμετρα",
+    "romaji": "kiro",
+    "kana": "キロ",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χιονίζει",
+    "romaji": "yuki ga furimasu",
+    "kana": "ゆきがふります",
+    "kanji": "雪が降ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χρησιμοποιώ",
+    "romaji": "tsukaimasu",
+    "kana": "つかいます",
+    "kanji": "使います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ψαρεύω",
+    "romaji": "tsurimasu",
+    "kana": "つります",
+    "kanji": "釣ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ψάρια",
+    "romaji": "sakana",
+    "kana": "さかな",
+    "kanji": "魚",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αγγίζω",
+    "romaji": "sawarimasu",
+    "kana": "さわります",
+    "kanji": "触ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ακόμα",
+    "romaji": "mada",
+    "kana": "まだ",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ακόμα λίγο",
+    "romaji": "mou sukoshi",
+    "kana": "もうすこし",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ακόμα μία φορά",
+    "romaji": "mou ichido",
+    "kana": "もういちど",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αλάτι",
+    "romaji": "shio",
+    "kana": "しお",
+    "kanji": "塩",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αμέσως",
+    "romaji": "sugu",
+    "kana": "すぐ",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ανοίγω (ηλεκτρ. συσκευές)",
+    "romaji": "tsukemasu",
+    "kana": "つけます",
+    "kanji": "付けます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αργότερα",
+    "romaji": "nochihodo",
+    "kana": "のちほど",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βιάζομαι",
+    "romaji": "isogimasu",
+    "kana": "いそぎます",
+    "kanji": "急ぎます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βοηθάω",
+    "romaji": "tetsudaimasu",
+    "kana": "てつだいます",
+    "kanji": "手伝います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δείχνω",
+    "romaji": "misemasu",
+    "kana": "みせます",
+    "kanji": "見せます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Επιστρέφω κάτι",
+    "romaji": "kaeshimasu",
+    "kana": "かえします",
+    "kanji": "返します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ευθεία",
+    "romaji": "massugu",
+    "kana": "まっすぐ",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Έχω",
+    "romaji": "arimasu",
+    "kana": "あります",
+    "kanji": "",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ζάχαρη",
+    "romaji": "satou",
+    "kana": "さとう",
+    "kanji": "砂糖",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γελάω",
+    "romaji": "waraimasu",
+    "kana": "わらいます",
+    "kanji": "笑います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διαμένω",
+    "romaji": "tomarimasu",
+    "kana": "とまります",
+    "kanji": "泊まります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρόπος γραψίματος",
+    "romaji": "kakikata",
+    "kana": "かきかた",
+    "kanji": "書き方",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρόπος διαβάσματος",
+    "romaji": "yomikata",
+    "kana": "よみかた",
+    "kanji": "読み方",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φανάρι",
+    "romaji": "shingou",
+    "kana": "しんごう",
+    "kanji": "信号",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φέρνω",
+    "romaji": "motte kimasu",
+    "kana": "もってきます",
+    "kanji": "持って来ます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φωνάζω",
+    "romaji": "sakemasu",
+    "kana": "さけます",
+    "kanji": "叫びます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αεροδρόμιο",
+    "romaji": "kuukou",
+    "kana": "くうこう",
+    "kanji": "空港",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Απαλός",
+    "romaji": "yawarakai",
+    "kana": "やわらかい",
+    "kanji": "柔らかい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ανύπαντρος",
+    "romaji": "dokushin",
+    "kana": "どくしん",
+    "kanji": "独身",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βάζω",
+    "romaji": "iremasu",
+    "kana": "いれます",
+    "kanji": "入れます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βουρτσίζω δόντια",
+    "romaji": "ha o migakimasu",
+    "kana": "はをみがきます",
+    "kanji": "歯を磨きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βρώμικος",
+    "romaji": "kitanai",
+    "kana": "きたない",
+    "kanji": "汚い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γευματίζω",
+    "romaji": "shokuji shimasu",
+    "kana": "しょくじします",
+    "kanji": "食事します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διασταύρωση",
+    "romaji": "kousaten",
+    "kana": "こうさてん",
+    "kanji": "交差点",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δρόμος",
+    "romaji": "michi",
+    "kana": "みち",
+    "kanji": "道",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Επιβεβαίωση",
+    "romaji": "kakunin",
+    "kana": "かくにん",
+    "kanji": "確認",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Επικίνδυνος",
+    "romaji": "abunai",
+    "kana": "あぶない",
+    "kanji": "危ない",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Καλόκαρδος",
+    "romaji": "yasashii",
+    "kana": "やさしい",
+    "kanji": "優しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάπου",
+    "romaji": "dokoka",
+    "kana": "どこか",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω τζόκιν",
+    "romaji": "jogingu shimasu",
+    "kana": "ジョギングします",
+    "kanji": "",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μπουγάδα",
+    "romaji": "sentaku",
+    "kana": "せんたく",
+    "kanji": "洗濯",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ναός Βουδισμού",
+    "romaji": "otera",
+    "kana": "おてら",
+    "kanji": "お寺",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξυρίζω γένια",
+    "romaji": "hige o sorimasu",
+    "kana": "ひげをそります",
+    "kanji": "髭を剃ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πελάτης",
+    "romaji": "kyaku",
+    "kana": "きゃく",
+    "kanji": "客",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πλένω πρόσωπο",
+    "romaji": "kao o araimasu",
+    "kana": "かおをあらいます",
+    "kanji": "顔を洗います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σκούπισμα",
+    "romaji": "souji",
+    "kana": "そうじ",
+    "kanji": "掃除",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ύψος",
+    "romaji": "takasa",
+    "kana": "たかさ",
+    "kanji": "高さ",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρόπος χρήσης",
+    "romaji": "tsukaikata",
+    "kana": "つかいかた",
+    "kanji": "使い方",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Άθλημα / Αθλητισμός",
+    "romaji": "supōtsu",
+    "kana": "スポーツ",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ανησυχώ",
+    "romaji": "shinpai shimasu",
+    "kana": "しんぱいします",
+    "kanji": "心配します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Απαγόρευση",
+    "romaji": "kinshi",
+    "kana": "きんし",
+    "kanji": "禁止",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Απάντηση",
+    "romaji": "kotae",
+    "kana": "こたえ",
+    "kanji": "答え",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Απαντώ",
+    "romaji": "kotaemasu",
+    "kana": "こたえます",
+    "kanji": "答えます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αποφασίζω",
+    "romaji": "kimemasu",
+    "kana": "きめます",
+    "kanji": "決めます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αυτή την εβδομάδα",
+    "romaji": "konshuu",
+    "kana": "こんしゅう",
+    "kanji": "今週",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ασανσέρ",
+    "romaji": "erebētā",
+    "kana": "エレベーター",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βιβλιάριο υγείας",
+    "romaji": "kenkou techou",
+    "kana": "けんこうてちょう",
+    "kanji": "健康手帳",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βίζα",
+    "romaji": "visa",
+    "kana": "ビザ",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βράδυ",
+    "romaji": "yoru",
+    "kana": "よる",
+    "kanji": "夜",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γεννιέμαι",
+    "romaji": "umareru",
+    "kana": "うまれる",
+    "kanji": "生まれる",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διαβατήριο",
+    "romaji": "pasupooto",
+    "kana": "パスポート",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δίνω",
+    "romaji": "agemasu",
+    "kana": "あげます",
+    "kanji": "上げます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δώρο",
+    "romaji": "okurimono",
+    "kana": "おくりもの",
+    "kanji": "贈り物",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ειδικότητα",
+    "romaji": "senmon",
+    "kana": "せんもん",
+    "kanji": "専門",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω κράτηση",
+    "romaji": "yoyaku shimasu",
+    "kana": "よやくします",
+    "kanji": "予約します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω υπερωρίες",
+    "romaji": "zangyou shimasu",
+    "kana": "ざんぎょうします",
+    "kanji": "残業します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάρτα",
+    "romaji": "kaado",
+    "kana": "カード",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κρυολογώ",
+    "romaji": "kaze o hikimasu",
+    "kana": "かぜをひきます",
+    "kanji": "風邪をひきます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κουρείο",
+    "romaji": "tokoya",
+    "kana": "とこや",
+    "kanji": "床屋",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λαμβάνω",
+    "romaji": "ukemasu",
+    "kana": "うけます",
+    "kanji": "受けます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λύκειο",
+    "romaji": "koukou",
+    "kana": "こうこう",
+    "kanji": "高校",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μπέιζμπολ",
+    "romaji": "bēsubōru",
+    "kana": "ベースボール",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξεχνώ",
+    "romaji": "wasuremasu",
+    "kana": "わすれます",
+    "kanji": "忘れます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξέρω / Γνωρίζω",
+    "romaji": "shirimasu",
+    "kana": "しります",
+    "kanji": "知ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Οδοντίατρος",
+    "romaji": "shika",
+    "kana": "しか",
+    "kanji": "歯科",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Περαστικά",
+    "romaji": "o daiji ni",
+    "kana": "おだいじに",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Περνώ απέναντι",
+    "romaji": "toorimasu",
+    "kana": "とおります",
+    "kanji": "通ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πετάω",
+    "romaji": "toobimasu",
+    "kana": "とびます",
+    "kanji": "飛びます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πίνακας αφίξεων και αναχωρήσεων",
+    "romaji": "kōkū bin no shuppatsu tōchaku bangō",
+    "kana": "こうくうびんのしゅっぱつとうちゃくばんごう",
+    "kanji": "航空便の出発到着番号",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πληροφορίες / Αρχεία",
+    "romaji": "shiryou",
+    "kana": "しりょう",
+    "kanji": "資料",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ποδόσφαιρο",
+    "romaji": "sakkaa",
+    "kana": "サッカー",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πονεμένος",
+    "romaji": "itai",
+    "kana": "いたい",
+    "kanji": "痛い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πουλάω",
+    "romaji": "urimasu",
+    "kana": "うります",
+    "kanji": "売ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προϊόντα",
+    "romaji": "shouhin",
+    "kana": "しょうひん",
+    "kanji": "商品",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πυρετός",
+    "romaji": "netsu",
+    "kana": "ねつ",
+    "kanji": "熱",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πού είναι",
+    "romaji": "doko desu ka",
+    "kana": "どこですか",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πωλούνται",
+    "romaji": "urete imasu",
+    "kana": "うれています",
+    "kanji": "売れています",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σκουπίδια",
+    "romaji": "gomi",
+    "kana": "ごみ",
+    "kanji": "ゴミ",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Συναυλία",
+    "romaji": "raibu",
+    "kana": "ライブ",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φάρμακο",
+    "romaji": "kusuri",
+    "kana": "くすり",
+    "kanji": "薬",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φαξ",
+    "romaji": "fakkusu",
+    "kana": "ファックス",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φτιάχνω",
+    "romaji": "tsukurimasu",
+    "kana": "つくります",
+    "kanji": "作ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χάνω",
+    "romaji": "nakushimasu",
+    "kana": "なくします",
+    "kanji": "無くします",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Απλός",
+    "romaji": "kantan",
+    "kana": "かんたん",
+    "kanji": "簡単",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βοειδή",
+    "romaji": "gyuuniku",
+    "kana": "ぎゅうにく",
+    "kanji": "牛肉",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γλυκός",
+    "romaji": "amai",
+    "kana": "あまい",
+    "kanji": "甘い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ένεση",
+    "romaji": "chuusha",
+    "kana": "ちゅうしゃ",
+    "kanji": "注射",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ίδιο",
+    "romaji": "onaji",
+    "kana": "おなじ",
+    "kanji": "同じ",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Και τα δύο",
+    "romaji": "ryouhou",
+    "kana": "りょうほう",
+    "kanji": "両方",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κιμονό",
+    "romaji": "kimono",
+    "kana": "きもの",
+    "kanji": "着物",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Με τα πόδια",
+    "romaji": "aruite",
+    "kana": "あるいて",
+    "kanji": "歩いて",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ροφήματα",
+    "romaji": "nomimono",
+    "kana": "のみもの",
+    "kanji": "飲み物",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πρώτη φορά",
+    "romaji": "hajimete",
+    "kana": "はじめて",
+    "kanji": "初めて",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τοίχος",
+    "romaji": "kabe",
+    "kana": "かべ",
+    "kanji": "壁",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βοράς",
+    "romaji": "kita",
+    "kana": "きた",
+    "kanji": "北",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Νότος",
+    "romaji": "minami",
+    "kana": "みなみ",
+    "kanji": "南",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ανατολή",
+    "romaji": "higashi",
+    "kana": "ひがし",
+    "kanji": "東",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δύση",
+    "romaji": "nishi",
+    "kana": "にし",
+    "kanji": "西",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αγώνας",
+    "romaji": "shiai",
+    "kana": "しあい",
+    "kanji": "試合",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αριθμός ασφάλισης",
+    "romaji": "hoken bangou",
+    "kana": "ほけんばんごう",
+    "kanji": "保険番号",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ατύχημα",
+    "romaji": "jiko",
+    "kana": "じこ",
+    "kanji": "事故",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διακόπτης",
+    "romaji": "suwitchi",
+    "kana": "スイッチ",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διευθυντής",
+    "romaji": "shachou",
+    "kana": "しゃちょう",
+    "kanji": "社長",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κάνω επιδιόρθωση",
+    "romaji": "naoshimasu",
+    "kana": "なおします",
+    "kanji": "直します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λέω",
+    "romaji": "iimasu",
+    "kana": "いいます",
+    "kanji": "言います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Λυπημένος",
+    "romaji": "kanashii",
+    "kana": "かなしい",
+    "kanji": "悲しい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δόντι",
+    "romaji": "ha",
+    "kana": "は",
+    "kanji": "歯",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μετρητά",
+    "romaji": "genkin",
+    "kana": "げんきん",
+    "kanji": "現金",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Νυσταγμένος",
+    "romaji": "nemui",
+    "kana": "ねむい",
+    "kanji": "眠い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Οδηγώ",
+    "romaji": "untenshimasu",
+    "kana": "うんてんします",
+    "kanji": "運転します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παθαίνει βλάβη",
+    "romaji": "kowaremasu",
+    "kana": "こわれます",
+    "kanji": "壊れます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πλένω",
+    "romaji": "arimasu",
+    "kana": "あらいます",
+    "kanji": "洗います",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πληρώνω",
+    "romaji": "shiharau",
+    "kana": "しはらう",
+    "kanji": "支払う",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Περιστρέφω",
+    "romaji": "mawasu",
+    "kana": "まわす",
+    "kanji": "回す",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πρόεδρος εταιρίας",
+    "romaji": "shachou",
+    "kana": "しゃちょう",
+    "kanji": "社長",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προϊστάμενος",
+    "romaji": "buchou",
+    "kana": "ぶちょう",
+    "kanji": "部長",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προσέχω",
+    "romaji": "ki o tsukemasu",
+    "kana": "きをつけます",
+    "kanji": "気を付けます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πυρκαγιά",
+    "romaji": "kaji",
+    "kana": "かじ",
+    "kanji": "火事",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πιζάμα",
+    "romaji": "pajama",
+    "kana": "パジャマ",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ρέστα",
+    "romaji": "otsuri",
+    "kana": "おつり",
+    "kanji": "お釣り",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Στρίβω",
+    "romaji": "magarimasu",
+    "kana": "まがります",
+    "kanji": "曲がります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σώμα",
+    "romaji": "karada",
+    "kana": "からだ",
+    "kanji": "体",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χρειάζομαι",
+    "romaji": "irimasu",
+    "kana": "いります",
+    "kanji": "要ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τι έπαθες",
+    "romaji": "dou shita no",
+    "kana": "どうしたの",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πώς είσαι",
+    "romaji": "genki desu ka",
+    "kana": "げんきですか",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πώς ήταν",
+    "romaji": "dou deshita ka",
+    "kana": "どうでしたか",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ημερολόγιο",
+    "romaji": "karendaa",
+    "kana": "カレンダー",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ιδρώνω",
+    "romaji": "ase o kakimasu",
+    "kana": "あせをかきます",
+    "kanji": "汗をかきます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ιδρώτας",
+    "romaji": "ase",
+    "kana": "あせ",
+    "kanji": "汗",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ημερολόγιο",
+    "romaji": "karendaa",
+    "kana": "カレンダー",
+    "kanji": "",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κινείται / Λειτουργεί",
+    "romaji": "ugokimasu",
+    "kana": "うごきます",
+    "kanji": "動きます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μεθάω",
+    "romaji": "yopparau",
+    "kana": "よっぱらう",
+    "kanji": "酔っ払う",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ναός Σιντοισμού",
+    "romaji": "jinja",
+    "kana": "じんじゃ",
+    "kanji": "神社",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ίπταμαι",
+    "romaji": "tobimasu",
+    "kana": "とびます",
+    "kanji": "飛びます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Προσευχή",
+    "romaji": "inori",
+    "kana": "いのり",
+    "kanji": "祈り",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πρωτοχρονιά",
+    "romaji": "oshougatsu",
+    "kana": "おしょうがつ",
+    "kanji": "お正月",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Συνοστίζομαι",
+    "romaji": "komimasu",
+    "kana": "こみます",
+    "kanji": "混みます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρακάρω",
+    "romaji": "butsukemasu",
+    "kana": "ぶつけます",
+    "kanji": "ぶつけます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρομακτικός",
+    "romaji": "kowai",
+    "kana": "こわい",
+    "kanji": "怖い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρόπος δανεισμού",
+    "romaji": "karikata",
+    "kana": "かりかた",
+    "kanji": "借り方",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φυτά",
+    "romaji": "kusa",
+    "kana": "くさ",
+    "kanji": "草",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αυτοκράτορας",
+    "romaji": "taishi",
+    "kana": "たいし",
+    "kanji": "大師",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Βγάζω / Στέλνω",
+    "romaji": "dashimasu",
+    "kana": "だします",
+    "kanji": "出します",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Για αυτόν τον λόγο",
+    "romaji": "dakara",
+    "kana": "だから",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γιατί",
+    "romaji": "naze / doushite",
+    "kana": "なぜ / どうして",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δάσος",
+    "romaji": "mori",
+    "kana": "もり",
+    "kanji": "森",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ηλεκτρικά προϊόντα",
+    "romaji": "denki seihin",
+    "kana": "でんきせいひん",
+    "kanji": "電気製品",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ηλικιωμένος",
+    "romaji": "toshiyori",
+    "kana": "としより",
+    "kanji": "年寄り",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μάθημα",
+    "romaji": "jugyou",
+    "kana": "じゅぎょう",
+    "kanji": "授業",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Διασχίζω",
+    "romaji": "toorimasu",
+    "kana": "とおります",
+    "kanji": "通ります",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κτίριο",
+    "romaji": "tatemono",
+    "kana": "たてもの",
+    "kanji": "建物",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μέγεθος",
+    "romaji": "ookisa",
+    "kana": "おおきさ",
+    "kanji": "大きさ",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Με τί τρόπο",
+    "romaji": "dono youni",
+    "kana": "どのように",
+    "kanji": "",
+    "level": "N5",
+    "type": "other",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μετακόμιση",
+    "romaji": "hikkoshi",
+    "kana": "ひっこし",
+    "kanji": "引っ越し",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μηχανή",
+    "romaji": "kikai",
+    "kana": "きかい",
+    "kanji": "機械",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πολιτική",
+    "romaji": "seiji",
+    "kana": "せいじ",
+    "kanji": "政治",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πρεσβεία",
+    "romaji": "taishikan",
+    "kana": "たいしかん",
+    "kanji": "大使館",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Συλλέγω",
+    "romaji": "atsumemasu",
+    "kana": "あつめます",
+    "kanji": "集めます",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Συζήτηση",
+    "romaji": "hanashi",
+    "kana": "はなし",
+    "kanji": "話",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σκοτεινός",
+    "romaji": "kurai",
+    "kana": "くらい",
+    "kanji": "暗い",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Φωτεινός",
+    "romaji": "akarui",
+    "kana": "あかるい",
+    "kanji": "明るい",
+    "level": "N5",
+    "type": "adjective",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρόπος φτιαξίματος",
+    "romaji": "tsukurikata",
+    "kana": "つくりかた",
+    "kanji": "作り方",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χτενίζω τα μαλλιά",
+    "romaji": "kami o tokashimasu",
+    "kana": "かみをとかします",
+    "kanji": "髪をとかします",
+    "level": "N5",
+    "type": "verb",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Σάββατο",
+    "romaji": "doyoubi",
+    "kana": "どようび",
+    "kanji": "土曜日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Κυριακή",
+    "romaji": "nichiyoubi",
+    "kana": "にちようび",
+    "kanji": "日曜日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δευτέρα",
+    "romaji": "getsuyoubi",
+    "kana": "げつようび",
+    "kanji": "月曜日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τρίτη",
+    "romaji": "kayoubi",
+    "kana": "かようび",
+    "kanji": "火曜日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Τετάρτη",
+    "romaji": "suiyoubi",
+    "kana": "すいようび",
+    "kanji": "水曜日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πέμπτη",
+    "romaji": "mokuyoubi",
+    "kana": "もくようび",
+    "kanji": "木曜日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παρασκευή",
+    "romaji": "kinyoubi",
+    "kana": "きんようび",
+    "kanji": "金曜日",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δέκα",
+    "romaji": "juu",
+    "kana": "じゅう",
+    "kanji": "十",
+    "level": "N5",
+    "type": "number",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εκατό",
+    "romaji": "hyaku",
+    "kana": "ひゃく",
+    "kanji": "百",
+    "level": "N5",
+    "type": "number",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Χίλια",
+    "romaji": "sen",
+    "kana": "せん",
+    "kanji": "千",
+    "level": "N5",
+    "type": "number",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Δέκα χιλιάδες",
+    "romaji": "man",
+    "kana": "まん",
+    "kanji": "万",
+    "level": "N5",
+    "type": "number",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Εκατό χιλιάδες",
+    "romaji": "juuman",
+    "kana": "じゅうまん",
+    "kanji": "十万",
+    "level": "N5",
+    "type": "number",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ένα εκατομμύριο",
+    "romaji": "hyakuman",
+    "kana": "ひゃくまん",
+    "kanji": "百万",
+    "level": "N5",
+    "type": "number",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ένα δισεκατομμύριο",
+    "romaji": "juuoku",
+    "kana": "じゅうおく",
+    "kanji": "十億",
+    "level": "N5",
+    "type": "number",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Οικογένεια",
+    "romaji": "kazoku",
+    "kana": "かぞく",
+    "kanji": "家族",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γονείς",
+    "romaji": "ryoushin",
+    "kana": "りょうしん",
+    "kanji": "両親",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πατέρας",
+    "romaji": "chichi",
+    "kana": "ちち",
+    "kanji": "父",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Πατέρας σου",
+    "romaji": "otousan",
+    "kana": "おとうさん",
+    "kanji": "お父さん",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μητέρα",
+    "romaji": "haha",
+    "kana": "はは",
+    "kanji": "母",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μητέρα σου",
+    "romaji": "okaasan",
+    "kana": "おかあさん",
+    "kanji": "お母さん",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μεγάλος αδερφός",
+    "romaji": "ani",
+    "kana": "あに",
+    "kanji": "兄",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μικρός αδερφός",
+    "romaji": "otouto",
+    "kana": "おとうと",
+    "kanji": "弟",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μεγάλη αδερφή",
+    "romaji": "ane",
+    "kana": "あね",
+    "kanji": "姉",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Μικρή αδερφή",
+    "romaji": "imouto",
+    "kana": "いもうと",
+    "kanji": "妹",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Θείος",
+    "romaji": "oji",
+    "kana": "おじ",
+    "kanji": "叔父 / 伯父",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Θεία",
+    "romaji": "oba",
+    "kana": "おば",
+    "kanji": "叔母 / 伯母",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παππούς",
+    "romaji": "sofu",
+    "kana": "そふ",
+    "kanji": "祖父",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Παππούς σου",
+    "romaji": "ojiisan",
+    "kana": "おじいさん",
+    "kanji": "お祖父さん",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γιαγιά",
+    "romaji": "sobo",
+    "kana": "そぼ",
+    "kanji": "祖母",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Γιαγιά σου",
+    "romaji": "obaasan",
+    "kana": "おばあさん",
+    "kanji": "お祖母さん",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Αδέρφια",
+    "romaji": "kyoudai",
+    "kana": "きょうだい",
+    "kanji": "兄弟",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ξαδέρφια",
+    "romaji": "itoko",
+    "kana": "いとこ",
+    "kanji": "従兄弟 / 従姉妹",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Ο σύζυγός μου",
+    "romaji": "otto",
+    "kana": "おっと",
+    "kanji": "夫",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Η σύζυγός μου",
+    "romaji": "tsuma",
+    "kana": "つま",
+    "kanji": "妻",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  },
+  {
+    "greek": "Θεός",
+    "romaji": "kami",
+    "kana": "かみ",
+    "kanji": "神",
+    "level": "N5",
+    "type": "noun",
+    "learned": false,
+    "score": 0
+  }
+
+]
