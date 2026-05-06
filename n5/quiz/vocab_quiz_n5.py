@@ -186,7 +186,7 @@ def render_vocab_quiz():
                                           use_container_width=True)
 
     if submitted and normalize(user_answer) != "":
-        if normalize(user_answer) in normalize(correct_answer):
+        if normalize(user_answer) == normalize(correct_answer):
             st.success("Correct!")
             st.session_state.vocab_score += 1
             st.session_state.vocab_feedback = f"Correct! ✅ {question} → {correct_answer}"

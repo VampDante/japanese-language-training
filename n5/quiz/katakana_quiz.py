@@ -191,7 +191,7 @@ def render_katakana_quiz():
                                           use_container_width=True)
     
     if submitted and normalize(user_answer) != "":
-        if normalize(user_answer) in normalize(correct_answer):
+        if normalize(user_answer) == normalize(correct_answer):
             st.success("Correct!")
             st.session_state.katakana_score += 1
             st.session_state.katakana_feedback = f"Correct! ✅ {question} → {correct_answer}"

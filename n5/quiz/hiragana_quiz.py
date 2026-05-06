@@ -185,7 +185,7 @@ def render_hiragana_quiz():
                                           use_container_width=True)
     
     if submitted and normalize(user_answer) != "":
-        if normalize(correct_answer) in normalize(user_answer):
+        if normalize(correct_answer) == normalize(user_answer):
             st.session_state.hiragana_score += 1
             st.session_state.hiragana_feedback = f"Correct! ✅ {question} → {correct_answer}"
             st.session_state.hiragana_feedback_type = "success"
